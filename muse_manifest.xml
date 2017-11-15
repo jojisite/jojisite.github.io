@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jojisounds.com" resolutions="1x" timestamp="1510784033259">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jojisounds.com" resolutions="1x" timestamp="1510784552468">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3838928105" ref="index"/>
+    <file name="index.css" crc="4129450586" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -36,9 +36,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="88_poster_.png" crc="3919859730" ref="index"/>
-    <file name="texture2.png" crc="4025734819" ref="index">
+    <file name="texture4.jpg" crc="409555912" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="238889089" seo="true" mt="1510784006098" redirect="true"/>
+  <file name="index.html" crc="191415692" seo="true" mt="1510784530225" redirect="true"/>
 </manifest>
