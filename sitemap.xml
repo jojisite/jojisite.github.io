@@ -5,6 +5,7 @@
     <lastmod>2017-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jojisounds.com/phone/index.html"/>
     <image:image>
       <image:loc>http://jojisounds.com/images/joji.svg</image:loc>
     </image:image>
