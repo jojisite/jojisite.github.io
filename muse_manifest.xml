@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jojisound.com" resolutions="1x" timestamp="1510860410791">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.jojisound.com" resolutions="1x" timestamp="1510861591119">
   <folder name="fonts">
     <file name="dirtylines-regular.woff" crc="3786731200"/>
     <file name="dirty lines script.eot" crc="483626522"/>
@@ -6,9 +6,9 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="86446412" ref="phone>index"/>
+      <file name="index.css" crc="441149310" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="427978213" seo="true" mt="1510859690031" redirect="true"/>
+    <file name="index.html" crc="479198976" seo="true" mt="1510860769099" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -25,32 +25,39 @@
   <folder name="images">
     <file name="joji.svg" crc="3877516030" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="joji_poster_.png" crc="118011980" ref="phone>index:index"/>
+    <file name="joji_poster_.png" crc="118011980" ref="phone>index"/>
     <file name="youtube.svg" crc="385969372" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="youtube_poster_.png" crc="442414747" ref="phone>index:index"/>
+    <file name="youtube_poster_.png" crc="4256785623" ref="phone>index"/>
     <file name="twitter.svg" crc="267922511" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter_poster_.png" crc="3850036721" ref="phone>index:index"/>
+    <file name="twitter_poster_.png" crc="439704737" ref="phone>index"/>
     <file name="fb.svg" crc="3933952430" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="fb_poster_.png" crc="3957082515" ref="phone>index:index"/>
+    <file name="fb_poster_.png" crc="60977031" ref="phone>index"/>
     <file name="ig.svg" crc="77442704" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="ig_poster_.png" crc="3769107566" ref="phone>index:index"/>
+    <file name="ig_poster_.png" crc="512887427" ref="phone>index"/>
     <file name="88.svg" crc="3778447167" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="88_poster_.png" crc="3919859730" ref="phone>index:index"/>
-    <file name="noisy.png" crc="150994123" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="joji-favicon.ico" crc="4273704026" ref="phone>index:index"/>
+    <file name="88_poster_.png" crc="324566233" ref="phone>index"/>
+    <file name="noisy.png" crc="150994123" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joji-favicon.ico" crc="484291842" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="414138281" seo="true" mt="1510860395648" redirect="true"/>
+  <file name="index.html" crc="3930766760" seo="true" mt="1510860777706" redirect="true"/>
 </manifest>
